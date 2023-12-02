@@ -16,3 +16,5 @@ Analyzing YouTube comments reveals the audience's reception and sentiment toward
 Furthermore, utilizing the DeTour model, I employ advanced topic modeling techniques to synthesize trailer descriptions for further analysis. The Llama2 layer plays a pivotal role in generating comprehensive cluster descriptions and label names, showcasing its potential for enhanced accuracy.
 
 In conclusion, my analysis showcases a strong correlation between diversified emotions in trailers and increased audience engagement. It emphasizes the importance of emotional balance, cautioning against over-reliance on singular emotions, while highlighting the impact of balanced sentiments for a larger viewership.
+
+ More Details [here](https://medium.com/@nskp1990/trailer-sentiment-to-movie-buzz-524682ae25ce)
